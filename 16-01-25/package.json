@@ -1,7 +1,9 @@
 {
   "type": "module",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "formidable": "^3.5.2",
+    "nodemailer": "^6.9.16",
     "upper-case": "^2.0.2"
   }
 }
